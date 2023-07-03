@@ -1,8 +1,8 @@
 public abstract class Zivotinja
 {
-    public string ime;
-    public string pasmina;
-    public int stupanjSrece;
+    public string ime="";
+    public string pasmina="";
+    public int stupanjSrece=0;
 
     public abstract void Glasanje();
 
